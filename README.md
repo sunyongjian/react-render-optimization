@@ -6,3 +6,5 @@ react 渲染优化问题
 #### immutable
 
 #### with redux
+
+### with mobx
