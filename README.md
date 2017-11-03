@@ -8,7 +8,7 @@ src/containers/usual/A
 // AA is UsualComponent
 // PureAA is PureComponent
 ```
-![image](src/img/purevscomponent)
+![image](src/img/purevscomponent.png)
 
 #### immutable
 
