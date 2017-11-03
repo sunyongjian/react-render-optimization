@@ -1,12 +1,11 @@
 import React from 'react';
 import { render } from 'react-dom';
-import A from './a';
+import A from './containers/usual/A';
 import './index.less';
 
 const App = () => (
   <div>
     <img src={require('./logo.svg')} alt="logo" />
-    <h2>welcome to react-full-start</h2>
     <A />
   </div>
 );

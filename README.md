@@ -2,6 +2,13 @@
 react 渲染优化问题
 
 #### component vs pureComponent
+```
+src/containers/usual/A
+
+// AA is UsualComponent
+// PureAA is PureComponent
+```
+![image](./img/purevscomponent)
 
 #### immutable
 
