@@ -10,6 +10,7 @@ src/containers/usual/A
 ```
 ![image](src/img/purevscomponent.png)
 
+点击加1，PureComponent 类型的组件没有发生变化，Component 的会持续加1。
 #### immutable
 
 #### with redux
